@@ -54,3 +54,7 @@ on
 ini_set('display_errors', 1);
 ```
 for display errors.
+
+## License
+
+[MIT](LICENSE)

@@ -8,6 +8,8 @@ And display:
 2. The top ten most popular links with their percents. 
 3. The top ten most popular user agents with their percents.
 
+[![demo](https://github.com/DudkinON/php_log/php_log_preview.png?raw=true)](php_log_preview.png)
+
 ## Installation
 
 Clone this script with GIT:
